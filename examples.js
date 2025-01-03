@@ -8608,10 +8608,10 @@ const examples = [
     }
 
       {
-        'description': 'Joystick Arcade Handi'Arcade',
+        'description': 'Joystick arcade HandiArcade',
         'config': {
-    "version": 16,
-    "unmapped_passthrough_layers": [
+            "version": 15,
+            "unmapped_passthrough_layers": [
         0,
         1,
         2,
