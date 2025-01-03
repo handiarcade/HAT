@@ -8607,9 +8607,9 @@ const examples = [
         }
     }
 
-    {
-    'description': 'Joystick Arcade Handi'Arcade',
-    'config': {  
+      {
+        'description': 'Joystick Arcade Handi'Arcade',
+        'config': {
     "version": 16,
     "unmapped_passthrough_layers": [
         0,
