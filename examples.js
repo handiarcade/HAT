@@ -8610,7 +8610,7 @@ const examples = [
       {
         'description': 'Joystick arcade HandiArcade',
         'config': {
-            "version": 15,
+            "version": 16,
             "unmapped_passthrough_layers": [
         0,
         1,
